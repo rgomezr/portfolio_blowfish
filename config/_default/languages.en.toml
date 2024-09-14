@@ -1,0 +1,19 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "ramongomez.xyz"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  dateFormat = "2 January 2006"
+  description = "Ramón Gómez's Portfolio"
+
+[params.author]
+  name = "Ramón Gómez"
+  email = "ramon@ramongomez.xyz"
+  headline = "Software Engineer, Tech enthusiast and passionate about Specialty Coffee making"
+  bio = "Software Engineer, Tech enthusiast and passionate about Specialty Coffee making"
+  image = "MonfraguePI_1.png"
+  links = [{github = "https://github.com/rgomezr"}, {substack = "https://substack.com/@rgomezr"} ]
