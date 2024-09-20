@@ -28,14 +28,14 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 ## Projects 👨🏻‍💻
 
 - **ClockingApp** (Present): Experimental environment where I try new tech tools on and apply various software patterns (Built to ease clocking experience when WFH) - [ClockingApp - Github](https://github.com/rgomezr/ClockingApp)
-- **Multi Container App Deploymen** (Present): Experimental environment for deploying a multi-container app through GH Actions CI/CD into AWS EB and ECS - [MultiService - Github](https://github.com/rgomezr/multi-docker)
+- **Multi Container App Deployment** (Present): Experimental environment for deploying a multi-container app through GH Actions CI/CD into AWS EB and ECS - [MultiService - Github](https://github.com/rgomezr/multi-docker)
 - Productivity and Wellbeing Newsletter (Present): Documenting my own journey towards realistic productivity and wellbeing in the form of a Newsletter - [Productive Days Ahead - Substack](https://productivedaysahead.substack.com/).
 - **Current Portfolio** (Present) - [ramongomez.xyz](https://ramongomez.xyz)
 - **Deep learning techniques applied to non-destructive prediction of food quality parameters** (2020) - A MLP and a Convolutional NN were built to accurately classify Iberian hams’ salt penetration level during their healing period - _Project documentation available on request._
 
 ## Experience 🔬
 
-**Mid-level engineer (2021 - 2024)** @ Exitex Ltd.
+**Mid-level engineer (2021 - 2024)** @ Exitex Ltd (Remote).
 
 - System Architecture Design and Implementation for the following projects:
    - **ERP API Integrations (C# within .NET Core, JS, SQL)**
@@ -45,7 +45,7 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
       - Data Analysis and creation of Data Cleaning plans to improve data robustness for simplifying backend's business logic and assure Customs compliance.
 - Management of Computer Science Students.
 
-**Junior engineer (2020 - 2021)** @ Exitex Ltd.
+**Junior engineer (2020 - 2021)** @ Exitex Ltd (On-site).
 
    - Improvement of various legacy systems by refactoring its stack.
 
@@ -72,10 +72,9 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 
 ## Education 📚
 
-- BSc (Hons) in Computing in Software Development (2019) at DkIT, Dundalk, Ireland.
-   - ERASMUS+ Programme.
-- Software Engineering (2015-2019) at University of Extremadura, Cáceres, Spain.
-- *More information available on request*.
+- BSc (Hons) in Computing in Software Development (2019) @ DkIT, Dundalk, Ireland (ERASMUS+ Programme).
+- Software Engineering (2015-2019) @ University of Extremadura, Cáceres, Spain.
+*More information available on request*.
 
 ## Certifications & Courses 🎗️
 
