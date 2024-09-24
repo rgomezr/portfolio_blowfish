@@ -10,7 +10,7 @@ Hey there! I’m 26 years old and I live in a small town close to Düsseldorf, G
 
 Previously I’ve lived in Ireland for 2 years and in my hometown, Cáceres (Spain) for most of my life.
 
-I'm a growth minded person, who believes in the importance of social relationships. I’m emphatic accurate and an effective communicator.
+I'm a growth minded person, who achives goals based on strategies and effort. I’m emphatic accurate and an effective communicator.
 
 I’m passionate about technology and software engineering, especially system architecture design, backend development and DevOps.
 
@@ -29,14 +29,13 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 
 - **ClockingApp** (Present): Experimental environment where I try new tech tools on and apply various software patterns (Built to ease clocking experience when WFH) - [ClockingApp - Github](https://github.com/rgomezr/ClockingApp)
 - **Multi Container App Deployment** (Present): Experimental environment for deploying a multi-container app through GH Actions CI/CD into AWS EB and ECS - [MultiService - Github](https://github.com/rgomezr/multi-docker)
-- Productivity and Wellbeing Newsletter (Present): Documenting my own journey towards realistic productivity and wellbeing in the form of a Newsletter - [Productive Days Ahead - Substack](https://productivedaysahead.substack.com/).
+- **Productivity and Wellbeing Newsletter** (Present): Documenting my own journey towards realistic productivity and wellbeing in the form of a Newsletter - [Productive Days Ahead - Substack](https://productivedaysahead.substack.com/).
 - **Current Portfolio** (Present) - [ramongomez.xyz](https://ramongomez.xyz)
 - **Deep learning techniques applied to non-destructive prediction of food quality parameters** (2020) - A MLP and a Convolutional NN were built to accurately classify Iberian hams’ salt penetration level during their healing period - _Project documentation available on request._
 
 ## Experience 🔬
 
-**Mid-level engineer (2021 - 2024)** @ Exitex Ltd (Remote).
-
+**Mid-level engineer (2021 - 2024)** @ Exitex Ltd, Remote.
 - System Architecture Design and Implementation for the following projects:
    - **ERP API Integrations (C# within .NET Core, JS, SQL)**
       - **External Carrier’s APIs** - Automating shipments creation within carrier’s service for efficient packaging and despatching within Company’s warehouses.
@@ -45,35 +44,36 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
       - Data Analysis and creation of Data Cleaning plans to improve data robustness for simplifying backend's business logic and assure Customs compliance.
 - Management of Computer Science Students.
 
-**Junior engineer (2020 - 2021)** @ Exitex Ltd (On-site).
-
+**Junior engineer (2020 - 2021)** @ Exitex Ltd, Dundalk, Ireland.
    - Improvement of various legacy systems by refactoring its stack.
 
 ## Skills 💁🏻‍♂️
 
 ### Tech
 
-- System Architecture Design.
-- Backend: C++, C#, Java, JS, ExpressJS, Unit Testing (These languages and frameworks are the ones where I have the most experience but I'm open to any other)
-- Frontend: JS, HTML, CSS, jQuery.
+- System Architecture Design & Patterns.
 - Data Structures & Algorithms.
+- Backend: C#, C++, Java, JS, ExpressJS, Python, Relational (SQL) and Document-based (MongoDB) data model DBs.
+- Frontend: JS, HTML, CSS, jQuery.
 - Containerisation & Orchestration: Docker, Docker Compose & Kubernetes.
-- Deployment of containerised apps with CI/CD pipeline into the Cloud (AWS)
-- ML & DL: TensorFlow & Python.
+- Deployment of containerised apps with CI/CD pipeline into the Cloud (AWS).
+- ML & DL: MLP, CNN and Hyperparameter Tuning & Optimisation.
+- CI/CD.
+- Git.
 
 ### Soft
 
-- Effective Communicator
+- Effective Communicator & Excellent Writing Skills
 - Adaptable & Coachable
 - Team Player
-- Time & Resource Manager
+- Time & Resource Management
 - Leadership & Decision Maker
 - Resilient
 
 ## Education 📚
 
-- BSc (Hons) in Computing in Software Development (2019) @ DkIT, Dundalk, Ireland (ERASMUS+ Programme).
-- Software Engineering (2015-2019) @ University of Extremadura, Cáceres, Spain.
+- **BSc (Hons) in Computing in Software Development (2019)** @ DkIT, Dundalk, Ireland (ERASMUS+ Programme).
+- **Software Engineering (2015-2019)** @ University of Extremadura, Cáceres, Spain.
 *More information available on request*.
 
 ## Certifications & Courses 🎗️
