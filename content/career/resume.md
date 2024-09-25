@@ -12,7 +12,7 @@ Previously I’ve lived in Ireland for 2 years and in my hometown, Cáceres (Spa
 
 I'm a growth minded person, who achives goals based on strategies and effort. I’m emphatic accurate and an effective communicator.
 
-I’m passionate about technology and software engineering, especially system architecture design, backend development and DevOps.
+I’m passionate about technology and Software Engineering, especially System Architecture Design, Backend development and DevOps.
 
 Multifaceted within many hobbies, being specialty coffee making, the main one at present.
 
@@ -56,7 +56,6 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 - Backend: C#, C++, Java, JS, ExpressJS, Python, Relational (SQL) and Document-based (MongoDB) data model DBs.
 - Frontend: JS, HTML, CSS, jQuery.
 - Containerisation & Orchestration: Docker, Docker Compose & Kubernetes.
-- Deployment of containerised apps with CI/CD pipeline into the Cloud (AWS).
 - ML & DL: MLP, CNN and Hyperparameter Tuning & Optimisation.
 - CI/CD.
 - Git.
@@ -99,8 +98,8 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 ## Languages 🗣️
 
 - **Spanish** (Native)
-- **English** (C2 Level)
-- **German** (A2 Level - Currently learning it).
+- **English** (C2)
+- **German** (A2 - Currently learning it).
 
 ## Hobbies 🗺️
 
