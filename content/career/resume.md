@@ -99,8 +99,7 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 
 - **Spanish** (Native)
 - **English** (C2)
-- **German** (A2 - Currently learning it).
-
+- **German** (A2 - B1; lerne zurzeit Deustch 👨🏻‍🎓)
 ## Hobbies 🗺️
 
 - **Specialty Coffee Journey** - Since 2020, I’ve gotten immersed into the world of coffee. From how important bean’s origin traceability and roasting are, to producing a delicious cup to drink.
