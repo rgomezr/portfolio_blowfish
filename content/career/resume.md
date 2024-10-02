@@ -40,7 +40,7 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
    - **ERP API Integrations (C# within .NET Core, JS, SQL)**
       - **External Carrier’s APIs** - Automating shipments creation within carrier’s service for efficient packaging and despatching within Company’s warehouses.
       - **Ocean Cargo APIs** - Updating ETAs from inbound shipments through their cargo container.
-   - **Customs Internal Workflows (C# within .NET Core, JS, SQL)** - Creation of multi-service workflow that maps outbound shipments into Customs Declarations (Irish Exports and UK Imports) based on Customs’ Legislation rules.
+   - **Customs Internal Workflows (C# within .NET Core, JS, SQL)** - Creation of multi-component app that maps outbound shipments into Customs Declarations (Irish Exports and UK Imports) based on Customs’ Legislation rules.
       - Data Analysis and creation of Data Cleaning plans to improve data robustness for simplifying backend's business logic and assure Customs compliance.
 - Management of Computer Science Students.
 
