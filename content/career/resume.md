@@ -22,7 +22,6 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 
 - Documenting my own journey towards realistic productivity and wellbeing in the form of a Newsletter - [Productive Days Ahead - Substack](https://productivedaysahead.substack.com/)
 - Working through [Docker and Kubernetes: The Complete Guide - Udemy](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
-- Separating Repository Pattern MongoDB CRUD operations out from client service into a different service within Compose in [ClockingApp - Github](https://github.com/rgomezr/ClockingApp)
 - Brewing coffee from Colombia - Finca El Agrado ☕️.
 
 ## Projects 👨🏻‍💻
