@@ -6,30 +6,36 @@ tags: ["career"]
 ---
 ## Who am I? 👀
 
-Hey there! I’m 26 years old and I live in a small town close to Düsseldorf, Germany.
+Hey there! You don't arrive here by mistake, so, welcome!
 
-Previously I’ve lived in Ireland for 2 years and in my hometown, Cáceres (Spain) for most of my life.
+I'm 27 years old and I currently live in Düsseldorf (Germany) - If you're wondering how integrated I already am, let's talk about it while we wait for the DB Train 🚇
 
-I'm a growth minded person, who achives goals based on strategies and effort. I’m emphatic accurate and an effective communicator.
+Previously, I've lived in the beautiful Emerald Isle 🇮🇪 for 2 years, and in my hometown, Cáceres (Spain) for most of my life. If you've watched Game Of Thrones (GOT), you probably know more from Cáceres than what you might think - Its old town became the King's Landing in the seventh season 🏰
 
-I’m passionate about technology and Software Engineering, especially System Architecture Design, Backend development and DevOps.
+Always heedful to embrace challenges as opportunities to learn and thrive. I understand the need of others and can communicate ideas, information and emotions, clearly.
 
-Multifaceted within many hobbies, being specialty coffee making, the main one at present.
+Driven by a strong interest in developing and optimising server-side functionality and an enthusiasm for Data and System Architecture - What can we not build? Let's build it together 🔨
 
-You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf).
+Multifaceted within many hobbies, being specialty coffee making, the main one at present - If you like to enjoy a special cup of coffee, full of interesting aromas and flavours, you'll appreciate having me around!
+
+I'd like to conclude this section with the below quote, as it emphasises my belief in perseverance and that growth, is **always** possible.
+> _Challenges are what make life interesting. Overcoming them makes life meaningful - Joshua J.Marine_
+
+Lastly, you can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf).
 
 ## Now 🕛
 
 - Documenting my own journey towards realistic productivity and wellbeing in the form of a Newsletter - [Productive Days Ahead - Substack](https://productivedaysahead.substack.com/)
-- Working through [Docker and Kubernetes: The Complete Guide - Udemy](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
+- Working through [Modular Monolith Architecture](https://www.milanjovanovic.tech/modular-monolith-architecture) and [Docker and Kubernetes: The Complete Guide - Udemy](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
 - Brewing coffee from Colombia - Finca El Agrado ☕️.
 
 ## Projects 👨🏻‍💻
 
+- **Evently** (Present): Experimental environment where I build an Event Management system within .NET Core as a Modular Monolith (with eventual migration to Microservices), following the Design principles of Clean Architecture (CA) and Domain Driven Design (DDD) - [Evently - Github](https://github.com/rgomezr/Evently)
 - **ClockingApp** (Present): Experimental environment where I try new tech tools on and apply various software patterns (Built to ease clocking experience when WFH) - [ClockingApp - Github](https://github.com/rgomezr/ClockingApp)
-- **Multi Container App Deployment** (Present): Experimental environment for deploying a multi-container app through GH Actions CI/CD into AWS EB and ECS - [MultiService - Github](https://github.com/rgomezr/multi-docker)
 - **Productivity and Wellbeing Newsletter** (Present): Documenting my own journey towards realistic productivity and wellbeing in the form of a Newsletter - [Productive Days Ahead - Substack](https://productivedaysahead.substack.com/).
 - **Current Portfolio** (Present) - [ramongomez.xyz](https://ramongomez.xyz)
+- **Multi Container App Deployment** (2024): Experimental environment for deploying a multi-container app through GH Actions CI/CD into AWS EB and ECS - [MultiService - Github](https://github.com/rgomezr/multi-docker)
 - **Deep learning techniques applied to non-destructive prediction of food quality parameters** (2020) - A MLP and a Convolutional NN were built to accurately classify Iberian hams’ salt penetration level during their healing period - _Project documentation available on request._
 
 ## Experience 🔬
@@ -50,7 +56,7 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 
 ### Tech
 
-- System Architecture Design & Patterns.
+- System Architecture Design.
 - Data Structures & Algorithms.
 - Backend: C#, C++, Java, JS, ExpressJS, Python, Relational (SQL) and Document-based (MongoDB) data model DBs.
 - Frontend: JS, HTML, CSS, jQuery.
@@ -61,11 +67,9 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 
 ### Soft
 
-- Effective Communicator & Excellent Writing Skills
 - Adaptable & Coachable
 - Team Player
 - Time & Resource Management
-- Leadership & Decision Maker
 - Resilient
 
 ## Education 📚
@@ -75,6 +79,9 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 *More information available on request*.
 
 ## Certifications & Courses 🎗️
+
+- **Modular Monolith Architecture** (Present) - Milan Jovanović through Teachable.
+[Course Details](https://www.milanjovanovic.tech/modular-monolith-architecture)
 
 - **Docker and Kubernetes: The Complete Guide** (Present) - Stephen Grider through Udemy.
 [Course Details](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
@@ -99,16 +106,18 @@ You can download a `.pdf` version of this Résumé [here ⬇](/career/RGR_CV.pdf
 - **Spanish** (Native)
 - **English** (C2)
 - **German** (A2 - B1; lerne zurzeit Deustch 👨🏻‍🎓)
+
 ## Hobbies 🗺️
 
 - **Specialty Coffee Journey** - Since 2020, I’ve gotten immersed into the world of coffee. From how important bean’s origin traceability and roasting are, to producing a delicious cup to drink.
    - Current setup: Lelit Bianca v3 x Niche Zero
 - **Travelling** - A lot of my time is spent either travelling or planning a trip. Investing in travelling experiences allows me to create memories from which I'll keep getting dividends from!
-- **Reading** - Passionate about discovering new ways of improving my perspective towards life. Some of my favourite books:
-   - Building a Second Brain - Tiago Forte
-   - Talking to Anyone - Leil Lowndes
-   - Keep going - Austin Kleon
-   - Start with why - Simon Sinek
+- **Reading** - Reading satisfies my yearning towards discovering new perspectives in a variety of topics. Some of my favourite books:
+   - Feel Good Productivity - Ali Abdaal.
+   - Building a Second Brain - Tiago Forte.
+   - Talking to Anyone - Leil Lowndes.
+   - Keep going - Austin Kleon.
+   - Start with why - Simon Sinek.
 - **Music** - What would I do without music? Mostly focusing on the instrumentals, music has accompanied me in every journey of my life. Some of my favourite artists:
    - Flume
    - Odesza

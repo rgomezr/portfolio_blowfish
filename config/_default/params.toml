@@ -72,7 +72,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
-  sharingLinks = [ "linkedin", "email"]
+  sharingLinks = ["email"]
   showZenMode = true
 
 [list]
