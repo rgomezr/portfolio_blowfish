@@ -16,5 +16,5 @@ title = "ramongomez.xyz"
   headline = "Software Engineer, Tech enthusiast and passionate about Specialty Coffee making"
   bio = "Software Engineer, Tech enthusiast and passionate about Specialty Coffee making"
   image = "MonfraguePI_1.png"
-  imageQuality = 30
+  imageQuality = 10
   links = [{github = "https://github.com/rgomezr"}, {substack = "https://substack.com/@rgomezr"}, {linkedin = "https://www.linkedin.com/in/rgomezrx/"}]
